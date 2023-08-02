@@ -1,0 +1,26 @@
+{
+  "name": "ascii-art-cli",
+  "version": "1.0.0",
+  "description": "A command line tool to convert text to ASCII art.",
+  "main": "index.js",
+  "dependencies": {
+    "figlet": "^1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "main": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrimeTDMomega/ascii-art-cli.git"
+  },
+  "keywords": [
+    "ascii-art"
+  ],
+  "author": "primetdm (discord)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PrimeTDMomega/ascii-art-cli/issues"
+  },
+  "homepage": "https://github.com/PrimeTDMomega/ascii-art-cli#readme"
+}
